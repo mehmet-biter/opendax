@@ -10,7 +10,7 @@ app:
   csrfEnabled: true
   gaTrackerKey: UA-100000000-1
 ssl:
-  enabled: false
+  enabled: true
   email: support@example.com
   updateVersions: false
 images:
