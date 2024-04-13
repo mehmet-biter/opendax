@@ -15,7 +15,7 @@ ssl:
   updateVersions: false
 images:
   peatio: peatiodao/peatio:20240201
-  barong: peatiodao/barong:20240201
+  barong: peatiodao/barong:20230417
   sonic: peatiodao/opendax_frontend_1:3-1-Master
   tower: peatiodao/tower:3.1.0-1f64f44
   rango: peatiodao/rango:20240201
